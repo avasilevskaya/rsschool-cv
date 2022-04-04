@@ -1,4 +1,5 @@
 # Anastasiya Vasilevskaya
+<img src="https://thumbs.dreamstime.com/b/default-woman-face-icon-flat-design-over-white-background-vector-illustration-162598262.jpg" alt="default woman pic" width="150"/>
 
 ## Contact Info:
 Phone: +375 33 643-85-31
