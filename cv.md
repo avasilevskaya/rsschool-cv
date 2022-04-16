@@ -77,6 +77,6 @@ IFRS and Management Accounting courses
 ACCA DipIFR (Rus)
 
 ## Languages
-English - *Professional working proficiency*
+English - *B2 (Upper ntermediate)*
 
 Russian - *Native*
