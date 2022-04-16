@@ -22,7 +22,7 @@ Or finally switch to full-time programing - because I like coding and see some h
 - Financial modelling
 - Spreadsheet automation
 - Power Query (M)
-- Visual Basic for Applications (VBA)
+- VBA for Excel
 - VB .Net
 - Git/GitHub
 - HTML, CSS, JS (in progress)
@@ -77,6 +77,6 @@ IFRS and Management Accounting courses
 ACCA DipIFR (Rus)
 
 ## Languages
-English - *Professional working proficiency*
+English - *B2 (Upper ntermediate)*
 
 Russian - *Native*
