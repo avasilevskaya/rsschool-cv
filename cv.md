@@ -10,11 +10,6 @@ GitHub: [avasilevskaya](https://github.com/avasilevskaya)
 
 Discord: [Nastya (@avasilevskaya)](https://discordapp.com/users/avasilevskaya#4550)
 
-## About Me
->My current projects are connected with financial calculations automation.
-I enrolled in RSS JS/FE course because I want to gain more programming experience to be able to create high-quality fin-tech products.
-Or finally switch to full-time programing - because I like coding and see some hidden magic in it.
-
 ## Skills
 - IFRS
 - Financial reporting
@@ -22,7 +17,7 @@ Or finally switch to full-time programing - because I like coding and see some h
 - Financial modelling
 - Spreadsheet automation
 - Power Query (M)
-- Visual Basic for Applications (VBA)
+- VBA for Excel
 - VB .Net
 - Git/GitHub
 - HTML, CSS, JS (in progress)
