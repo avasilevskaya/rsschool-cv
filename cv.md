@@ -26,16 +26,16 @@ Or finally switch to full-time programing - because I like coding and see some h
 
 *Senior IFRS Consultant - Full-time -  6 yrs*
 
-Full cycle of IFRS and management reporting automation, including: 
- - BA, tecnnology & methodology audit of existing solutions
- - MS Excel solutions design & development
- - Task assignment and control
- - Client communication and presentation
-Served industries: Telecommunications, Software development, Manufacturing, FMCG.
+* Full cycle of IFRS and management reporting automation, including: 
+  + BA, tecnnology & methodology audit of existing solutions
+  + MS Excel solutions design & development
+  + Task assignment and control
+  + Client communication and presentation
 
-Belarusian GAAP-to-IFRS transformation for client
-Financial modelling (FAST)
-Development of company's Excel training course for corporate clients, including LMS support and content development
+  Served industries: Telecommunications, Software development, Manufacturing, FMCG.
+* Belarusian GAAP-to-IFRS transformation for client
+* Financial modelling (FAST)
+* Development of company's Excel training course for corporate clients, including LMS support and content development
 
 ## Education
 **Belarusian State University**
