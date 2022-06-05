@@ -20,27 +20,6 @@ Or finally switch to full-time programing - because I like coding and see some h
 - Excel automation, Power Query (M), VBA,  VSTO add-ins (VB.Net)
 - Git/GitHub, HTML, CSS, JS - currently studying
 
-## Code Example
-
-```
-function solution(number){
-  let res;
-  let arr = [];
-  if (number < 0) {
-    res = 0;
-  } else {
-      for (let i = 1; i < number; i++) {
-        if ( (i % 3) == 0 || (i % 5) == 0) {
-          arr.push(i);      
-        }
-      }
-  res = arr.reduce((summ, a) => summ + a, 0)
-  }
-  return res
-}
-```
-
-
 ## Working experience
 
 **FIN.by - Consulting and software solutions in finance**
