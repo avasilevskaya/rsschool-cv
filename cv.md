@@ -11,21 +11,14 @@ GitHub: [avasilevskaya](https://github.com/avasilevskaya)
 Discord: [Nastya (@avasilevskaya)](https://discordapp.com/users/avasilevskaya#4550)
 
 ## About Me
->My current projects are connected with financial calculations automation.
+My current projects are connected with financial calculations automation.
 I enrolled in RSS JS/FE course because I want to gain more programming experience to be able to create high-quality fin-tech products.
 Or finally switch to full-time programing - because I like coding and see some hidden magic in it.
 
 ## Skills
-- IFRS
-- Financial reporting
-- Management accounting
-- Financial modelling
-- Spreadsheet automation
-- Power Query (M)
-- VBA for Excel
-- VB .Net
-- Git/GitHub
-- HTML, CSS, JS (in progress)
+- IFRS, Management accounting, Financial modelling, Business analysis
+- Excel automation, Power Query (M), VBA,  VSTO add-ins (VB.Net)
+- Git/GitHub, HTML, CSS, JS - currently studying
 
 ## Code Example
 
@@ -52,17 +45,18 @@ function solution(number){
 
 **FIN.by - Consulting and software solutions in finance**
 
-*Senior IFRS Consultant - Full-time - 5 yrs 11 mos*
+*Senior IFRS Consultant - Full-time -  6 yrs*
 
+Full cycle of IFRS and management reporting automation, including: 
+ - BA, tecnnology & methodology audit of existing solutions
+ - MS Excel solutions design & development
+ - Task assignment and control
+ - Client communication and presentation
+Served industries: Telecommunications, Software development, Manufacturing, FMCG.
 
-
-- Full cycle of IFRS and management reporting automation
-	- BA, tecnnology & methodology audit of existing solutions
-	- MS Excel solutions design & development
-	- Task assignment and control
-	- Client communication and presentation
-- Belarusian GAAP to IFRS transformation for client
-- LMS support and content development
+Belarusian GAAP-to-IFRS transformation for client
+Financial modelling (FAST)
+Development of company's Excel training course for corporate clients, including LMS support and content development
 
 ## Education
 **Belarusian State University**
@@ -77,6 +71,6 @@ IFRS and Management Accounting courses
 ACCA DipIFR (Rus)
 
 ## Languages
-English - *B2 (Upper ntermediate)*
+English - *B2 (Upper intermediate)*
 
 Russian - *Native*
